@@ -125,3 +125,5 @@ UNION ALL SELECT 'products', COUNT(*) FROM products
 UNION ALL SELECT 'sellers', COUNT(*) FROM sellers
 UNION ALL SELECT 'geolocation', COUNT(*) FROM geolocation
 UNION ALL SELECT 'category_translation', COUNT(*) FROM category_translation;
+
+
